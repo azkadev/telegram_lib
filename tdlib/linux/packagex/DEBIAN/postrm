@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+rm -rf /usr/bin/tdlib
+rm -rf /usr/bin/tdlib-app
+rm -rf /usr/local/share/tdlib
