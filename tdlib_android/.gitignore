@@ -1,8 +1,0 @@
-*/*
-!third_party/*
-!.gitignore
-!build-all.sh
-!build.sh
-!export.sh
-!CMakeLists.txt
-!td_json.cpp

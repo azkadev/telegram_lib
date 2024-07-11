@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Version=1.0.0
-Name=Tdlib
-GenericName=General Application
-Exec=tdlib-app -- %u
-Categories=Music;Media;
-Keywords=Hello;World;Test;Application;
-StartupNotify=true

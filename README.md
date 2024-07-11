@@ -1,4 +1,12 @@
-# telegram_lib
+# Telegram Lib
+
+
+
+git clone https://github.com/tdlib/td.git
+
+
+ANDROID_NDK_HOME="/home/galaxeus/Android/Sdk/ndk/android-ndk-r20"
+
 
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">

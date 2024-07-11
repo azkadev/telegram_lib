@@ -1,5 +1,0 @@
-#!/usr/bin/env sh
-ln -s /usr/share/tdlib/tdlib /usr/bin/tdlib-app
-chmod +x /usr/bin/tdlib-app
-
-exit 0
